@@ -1,0 +1,16 @@
+# For more information about build system see
+# https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html
+# The following five lines of boilerplate have to be in your project's
+# CMakeLists in this exact order for cmake to work correctly
+cmake_minimum_required(VERSION 3.5)
+
+include($ENV{IDF_PATH}/tools/cmake/project.cmake)
+project(silvioom)
+#idf_build_set_property(COMPILE_OPTIONS "-Wno-error=misleading-indentation" APPEND)
+#idf_build_set_property(COMPILE_OPTIONS "-Wno-error=unused-variable" APPEND)
+#idf_build_set_property(COMPILE_OPTIONS "-Wno-error=unused-but-set-variable" APPEND)
+#idf_build_set_property(COMPILE_OPTIONS "-Wno-error=format-overflow" APPEND)
+#idf_build_set_property(COMPILE_OPTIONS "-Wno-error=nonnull" APPEND)
+#idf_build_set_property(COMPILE_OPTIONS "-Wno-error=pointer-sign" APPEND)
+#idf_build_set_property(COMPILE_OPTIONS "-Wno-error=maybe-uninitialized" APPEND)
+

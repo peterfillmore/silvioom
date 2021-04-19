@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/Users/peterfillmore2/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/Users/peterfillmore2/esp/silvioom/build/bootloader",
+    "config_file":        "/Users/peterfillmore2/esp/silvioom/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4-dev-744-g1cb31e509-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/Users/peterfillmore2/esp/esp-idf/components/efuse/Kconfig;/Users/peterfillmore2/esp/esp-idf/components/esp32/Kconfig;/Users/peterfillmore2/esp/esp-idf/components/esp_common/Kconfig;/Users/peterfillmore2/esp/esp-idf/components/esp_hw_support/Kconfig;/Users/peterfillmore2/esp/esp-idf/components/esp_system/Kconfig;/Users/peterfillmore2/esp/esp-idf/components/freertos/Kconfig;/Users/peterfillmore2/esp/esp-idf/components/log/Kconfig;/Users/peterfillmore2/esp/esp-idf/components/newlib/Kconfig;/Users/peterfillmore2/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/Users/peterfillmore2/esp/esp-idf/components/bootloader/Kconfig.projbuild;/Users/peterfillmore2/esp/esp-idf/components/esp_rom/Kconfig.projbuild;/Users/peterfillmore2/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/Users/peterfillmore2/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/Users/peterfillmore2/esp/esp-idf/components/bootloader", "/Users/peterfillmore2/esp/esp-idf/components/bootloader_support", "/Users/peterfillmore2/esp/esp-idf/components/efuse", "/Users/peterfillmore2/esp/esp-idf/components/esp32", "/Users/peterfillmore2/esp/esp-idf/components/esp_common", "/Users/peterfillmore2/esp/esp-idf/components/esp_hw_support", "/Users/peterfillmore2/esp/esp-idf/components/esp_rom", "/Users/peterfillmore2/esp/esp-idf/components/esp_system", "/Users/peterfillmore2/esp/esp-idf/components/esptool_py", "/Users/peterfillmore2/esp/esp-idf/components/freertos", "/Users/peterfillmore2/esp/esp-idf/components/hal", "/Users/peterfillmore2/esp/esp-idf/components/log", "/Users/peterfillmore2/esp/esp-idf/components/bootloader/subproject/main", "/Users/peterfillmore2/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/Users/peterfillmore2/esp/esp-idf/components/newlib", "/Users/peterfillmore2/esp/esp-idf/components/partition_table", "/Users/peterfillmore2/esp/esp-idf/components/soc", "/Users/peterfillmore2/esp/esp-idf/components/spi_flash", "/Users/peterfillmore2/esp/esp-idf/components/xtensa", "" ]
+}

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/peterfillmore2/esp/silvioom/build/CMakeFiles/bootloader
+/Users/peterfillmore2/esp/silvioom/build/CMakeFiles/bootloader.rule
+/Users/peterfillmore2/esp/silvioom/build/CMakeFiles/bootloader-complete.rule
+/Users/peterfillmore2/esp/silvioom/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/peterfillmore2/esp/silvioom/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/peterfillmore2/esp/silvioom/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/peterfillmore2/esp/silvioom/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/peterfillmore2/esp/silvioom/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/peterfillmore2/esp/silvioom/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/peterfillmore2/esp/silvioom/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
